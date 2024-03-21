@@ -1,0 +1,3 @@
+grid place-content-center h-center --> content in center from top left
+
+p-[10px] --> for our own size
